@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated outputs
+docs_output/
+temp/
+
+# OS files
+.DS_Store
+
+# Virtual env
+venv/
+.venv/
+
+# Node / frontend
+node_modules/
+dist/
+build/
